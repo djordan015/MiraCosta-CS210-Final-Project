@@ -2,7 +2,6 @@
 ## AUTHORS
  * David Jordan
  * Joshua Clemens
- * Sadi Arzo
 
 ## Project Description
 A simple weather app that allows the user to view 3 locations at once.
